@@ -19,27 +19,30 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Software Engineering Intern"
+  company = "YellowAnt Inc"
+  company_url = "https://www.yellowant.com/"
+  location = "Bengaluru"
+  date_start = "2018-06-01"
+  date_end = "2018-07-31"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  * Built Todoist application integration for YellowAnt bot platform
+  * Developed an internal tool called Client-Manager dashboard, which is used for CRM by the sales and marketing team.
+  * Developed a chat application interface where users run and test YellowAnt bot platform commands.
+  * Tools and Libraries: React, Redux, Django, REST APIs
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Frontend Engineering Intern"
+  company = "FR8"
+  company_url = "https://www.fr8.in/"
+  location = "Chennai"
+  date_start = "2017-05-01"
+  date_end = "2017-07-31"
+  description = """
+  *  Developed a React Native mobile application to be used by truck vendors connected with us to monitor the trip status of their trucks.
+  * Developed dashboards to be used for various internal tooling purposes of the company like On-time/Delayed loads delivered to destination, ETA of trucks in a long haul trip etc.
+  * Tools and Libraries: React, React Native, Redux, Node.js, Sequelize.js, Lodash.js, Apollo GraphQL client, GraphQL APIs
+  """
 
 +++
