@@ -61,14 +61,14 @@ privacy_pack = false
 gravatar = false
 
 # Contact Widget setup
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  email = "pranayankit414@gmail.com"
+  address = "Ashwatha Hostel - 1014, IIITDM Kancheepuram, Chennai-600127, India"
   # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-  office_hours = """Monday 10:00 to 13:00<br>
-                    Wednesday 09:00 to 10:00<br>
-                    Otherwise email to book an appointment"""
-  phone = "888 888 88 88"
-  skype = "echo123"
+  # office_hours = """Monday 10:00 to 13:00<br>
+  #                  Wednesday 09:00 to 10:00<br>
+  #                  Otherwise email to book an appointment"""
+  phone = "+91 8839084045"
+  # skype = "echo123"
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
@@ -94,10 +94,10 @@ gravatar = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
-  map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  map = 1
+  map_api_key = "AIzaSyCIQgYcDxRD6DuhEljaMFRjwgJ73cjJIJk"
+  latitude = "12.8395"
+  longitude = "80.1375"
   zoom = 15
 
 # Publication types.
