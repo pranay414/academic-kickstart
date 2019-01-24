@@ -27,7 +27,7 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "BTech & MTech in Computer Engineering"
+  course = "B.Tech & M.Tech in Computer Engineering"
   institution = "IIITDM Kancheepuram"
   year = 2020
 
@@ -65,6 +65,11 @@ interests = [
   link = "https://github.com/pranay414"
 
 [[social]]
+  icon = "medium"
+  icon_pack = "fab"
+  link = "https://medium.com/@pranayankit414"
+
+[[social]]
   icon = "facebook"
   icon_pack = "fab"
   link = "https://www.facebook.com/pranay.ankit.9"
@@ -78,6 +83,10 @@ interests = [
 
 +++
 
-I'm a pre-final year Computer Science undergrduate student at [IIITDM Kancheepuram](http://www.iiitdm.ac.in/). Apart from academics I love contributing to Open Source.
+I'm a pre-final year computer science undergrduate student at [IIITDM Kancheepuram](http://www.iiitdm.ac.in/).
 
 My interests lie in **Fullstack Application Development**, **Deep Learning** and **Machine Learning**. I love creating applications which involve these things.
+
+Apart from academics I love contributing to open source. I generally contribute to **Javascript** projects especially **React** and **Node.js**. My contributions can be found on Github. I'm always active over there.
+
+I know **C**, **C++**, **Python**, **Javascript**, **R** but I'm most comfortable in working with **Python** and **Javascript** codebases.
